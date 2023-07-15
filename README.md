@@ -4,7 +4,7 @@ Visualize music with 4 methods using librosa, including melodic spectrogram.
 
 ## Installation
 
-Use the requirements file to install the requirements, or simply install librosa to an environment with Python 3.11.4.
+Use the requirements file to install the requirements, or rather install librosa to an environment with Python 3.11.4.
 
 ```bash
 pip install -r requirements.txt
