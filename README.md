@@ -18,4 +18,4 @@ Run main.py
 python main.py
 ```
 
-Running the program as is should generate spectrogram-literally.png in the output folder.
+Running the program generates 4 png files in the output folder.
